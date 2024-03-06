@@ -1,0 +1,8 @@
+* {
+    display: flex;
+    gap: 5px;
+}
+
+a {
+    height: 100px;
+}
